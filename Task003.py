@@ -8,3 +8,4 @@ if (a+b+c) == (d+e+f):
     print ("Ticket is lucky")
 else:
     print ("Ticket is unlucky")
+        
